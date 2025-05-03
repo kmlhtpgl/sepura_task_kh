@@ -35,10 +35,23 @@ The script:
   python --version
 
 ## Project Structure
+
 project-folder
 -logfile.txt          # Your log file
 -process_usage.py     # The Python script
 -README.md            # This readme file
+
+## How to Use
+
+1. Save your log file as logfile.txt and place it in the same directory as the script.
+
+2. Save the script as process_usage.py in the same folder.
+
+3. Open a terminal or command prompt and navigate to the folder.
+
+4. Run the script:
+    python process_usage.py
+
 
 ## Output
 
