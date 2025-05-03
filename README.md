@@ -35,7 +35,7 @@ The script:
   python --version
 
 ## Project Structure
-project-folder/
+project-folder
 -logfile.txt          # Your log file
 -process_usage.py     # The Python script
 -README.md            # This readme file
