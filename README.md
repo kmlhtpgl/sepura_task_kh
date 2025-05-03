@@ -35,11 +35,12 @@ The script:
   python --version
 
 ## Project Structure
-
-project-folder
--logfile.txt          # Your log file
--process_usage.py     # The Python script
--README.md            # This readme file
+```bash
+project-folder/
+├── logfile.txt          # Your log file
+├── process_usage.py     # The Python script
+└── README.md            # This readme file
+```
 
 ## How to Use
 
