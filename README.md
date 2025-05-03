@@ -36,9 +36,9 @@ The script:
 
 ## Project Structure
 project-folder/
-├── logfile.txt          # Your log file
-├── process_usage.py     # The Python script
-└── README.md            # This readme file
+-logfile.txt          # Your log file
+-process_usage.py     # The Python script
+-README.md            # This readme file
 
 ## Output
 
