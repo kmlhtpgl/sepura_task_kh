@@ -50,6 +50,7 @@ project-folder
 3. Open a terminal or command prompt and navigate to the folder.
 
 4. Run the script:
+
     python process_usage.py
 
 
