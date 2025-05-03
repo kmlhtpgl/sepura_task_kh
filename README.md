@@ -100,7 +100,3 @@ This project is for educational or interview demonstration purposes. No license 
 ## Author
 Developed by Kemal Hatipoglu – feel free to contribute or adapt for your own use cases!
 
-
----
-
-Would you like me to include this in a downloadable `.md` file for you?
