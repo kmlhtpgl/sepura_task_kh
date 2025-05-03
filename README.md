@@ -50,9 +50,9 @@ project-folder
 3. Open a terminal or command prompt and navigate to the folder.
 
 4. Run the script:
-
+```bash
     python process_usage.py
-
+```
 
 ## Output
 
